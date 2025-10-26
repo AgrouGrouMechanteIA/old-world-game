@@ -1,0 +1,9 @@
+{% extends 'base.html' %}{% block content %}
+<h2>Places</h2>
+<ul>
+{% for p in places %}
+  <li><a href="/place/{{p.id}}">{{p.name}}</a> {% if p.is_city %}(city){% endif %}{% if p.colonisable %} - colonisable{% endif %}</li>
+{% endfor %}
+</ul>
+<p><a href="/admin/seed">(Re)seed world</a> | <a href="/admin/process_turn_now">Process turn now</a></p>
+{% endblock %}

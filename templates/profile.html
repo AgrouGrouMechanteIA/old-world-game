@@ -1,0 +1,29 @@
+{% extends 'base.html' %}{% block content %}
+<h2>{{profile.user.username}}</h2>
+<p>Location: {{profile.location.name if profile.location else '—'}}</p>
+<p>Health: {{profile.health}} / 5 - Hunger: {{profile.hunger}} / 2</p>
+<p>Money: {{profile.pounds}} pounds {{profile.shillings}} shillings</p>
+
+<h3>Inventory</h3>
+<table><tr><th>Item</th><th>Amount</th><th>Actions</th></tr>
+{% for inv in inventory %}
+  <tr><td>{{inv.item_type.name}}</td><td>{{inv.amount}}</td>
+    <td>
+      {% if inv.item_type.edible_hunger or inv.item_type.edible_health %}
+        <form method="post" action="/inventory/eat"><input type="hidden" name="inventory_item_id" value="{{inv.id}}"><input name="qty" value="1" size="2"><button>Eat</button></form>
+      {% endif %}
+    </td>
+  </tr>
+{% endfor %}
+</table>
+
+<h3>Craft</h3>
+<form method="post" action="/craft"><label>Recipe<select name="recipe_key">
+  <option value="mill_wheat">Mill wheat</option>
+  <option value="bake_bread">Bake bread</option>
+  <option value="herbs_to_potion">Herbs to potion</option>
+</select></label><button>Start craft</button></form>
+
+<h3>Mail</h3>
+<form method="post" action="/mail/send"><label>To player id<input name="to_player"></label><br><label>Subject<input name="subject"></label><br><label>Body<textarea name="body"></textarea></label><br><button>Send</button></form>
+{% endblock %}
