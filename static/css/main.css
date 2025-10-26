@@ -1,0 +1,6 @@
+body { font-family: 'Georgia', serif; margin:20px; color:#222; background:#fbfaf7; }
+.topbar { display:flex; gap:10px; margin-bottom:20px; }
+.flashes { color: #8b0000; }
+.narration { font-style: italic; color: #333; margin-top:8px; background:#fff; padding:8px; border-left:4px solid #ccc; }
+table { border-collapse: collapse; width: 90%; }
+table td, table th { border:1px solid #ddd; padding:6px; }
