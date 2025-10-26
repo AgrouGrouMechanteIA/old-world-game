@@ -1,6 +1,6 @@
 from datetime import datetime
 from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy.dialects.sqlite import JSON
+from sqlalchemy import JSON
 
 db = SQLAlchemy()
 
@@ -81,7 +81,7 @@ class Task(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     player_id = db.Column(db.Integer, db.ForeignKey('player_profile.id'), nullable=False)
     task_type = db.Column(db.String(200), nullable=False)
-    metadata = db.Column(JSON, nullable=True)
+    metadata_json = db.Column(JSON, nullable=True)   # renamed to avoid reserved 'metadata'
     started_at = db.Column(db.DateTime, default=datetime.utcnow)
     turn_date = db.Column(db.String(20), nullable=False)
 
@@ -105,4 +105,4 @@ class BoatStatus(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     route_index = db.Column(db.Integer, default=0)
     stuck_counter = db.Column(db.Integer, default=0)
-    route = db.Column(JSON, default=[])
+    route = db.Column(JSON, default=list)
