@@ -1,0 +1,328 @@
+{
+  "places_by_name": {
+    "Beautiful Forest": {
+      "happy": "Light slips between the leaves like warm coins; the chestnuts wait with quiet generosity.",
+      "sad": "Leaves fall in measured sorrow, and the earth keeps its small treasures for itself.",
+      "annoyed": "Roots tangle and grumble underfoot, yet from the mess the chestnuts still appear.",
+      "fearful": "Shadows lean close between trunks, and even the fruit seems to hush its breath.",
+      "angry": "The wind lashes the boughs, sending down a rain of hard, stomachable nuts."
+    },
+    "Ocean View": {
+      "happy": "Sea-salt laughs on the air and nets come home heavy with the tide's gentle gift.",
+      "sad": "The ocean remembers voices lost to its depths; nets return lighter than hope.",
+      "annoyed": "Waves drag the ropes and complain, but the day yields a useful fish or two.",
+      "fearful": "The surf stares back with deep, patient thirst; fish taste of distant currents.",
+      "angry": "The sea smacks the pier and the gulls squabble for every unlucky catch."
+    },
+    "Not-New-Eden": {
+      "happy": "Trees hang ripe and fragrant; the ground is stitched with sweetness and sun.",
+      "sad": "Fruit drops where no mouth waits and the orchard keeps its quiet aches.",
+      "annoyed": "Branches tangle the sleeves of the careless; still the fruit insists on ripeness.",
+      "fearful": "A hush lies among the rows, as if some unseen thing counts the harvest.",
+      "angry": "Blossoms fall like thrown coins; the orchard refuses to be polite."
+    },
+    "Risible Rock": {
+      "happy": "Green fingers pry herbs from stone, and the scent lifts like a small blessing.",
+      "sad": "Herbs press themselves into hard pockets of rock, surviving with a stubborn sigh.",
+      "annoyed": "Stubborn roots hold fast; you curse, and the herb rewards you only grudgingly.",
+      "fearful": "The rock holds secrets; the herbs whisper warnings in a language of leaves.",
+      "angry": "The wind scours the rock and strips the softer growth to bitter stems."
+    },
+    "Temple Island": {
+      "happy": "A quiet place where soft bells echo; hands feel lighter after a small, private asking.",
+      "sad": "Stone remembers old prayers like rain in the gutters; voices fold inward.",
+      "annoyed": "The island keeps its rules; prayers are brief, efficient, and seldom surprising.",
+      "fearful": "A hush presses at the edge of speech; some answers are heavy as stones.",
+      "angry": "The altar's shadow is sharp; pleas strike and recoil like flints."
+    },
+    "Rocky Cliff": {
+      "happy": "From this cliff, distant horizons brighten; even insects offer a bitter sustenance.",
+      "sad": "Wind creases the rock like a closed page; every sound seems to hold regret.",
+      "annoyed": "The cliff offers little conversation and fewer comforts, but it does feed the desperate.",
+      "fearful": "The cliff's edge is thin and the drop sings in a low, hungry key.",
+      "angry": "Stone grinds teeth; the cliff spits down at the unwary."
+    },
+    "Las Formas": {
+      "happy": "Lanterns blink and trade rings like small festivals; coin passes with theatrical charm.",
+      "sad": "Smiles mask thin purses; the booths fold their bright coverings as the day cools.",
+      "annoyed": "Merchants polish their lies and tuck truth into corners behind baubles.",
+      "fearful": "Eyes watch the pockets and the smiles hold hidden barbs; bargains have teeth.",
+      "angry": "Dealers shout and slam prices like doors; hands move quicker than trust."
+    },
+    "Hope Island": {
+      "happy": "Open soil smells like possibility; even the gulls seem to hum with plan.",
+      "sad": "Land waits with a patient ache, as if wondering whether anyone will truly stay.",
+      "annoyed": "Weeds argue with ambition here; founding a place will take honest sweat.",
+      "fearful": "The island's calm keeps a thin skin over deeper, uncertain waters.",
+      "angry": "The shore bristles, daring anyone to claim it without a fight."
+    },
+    "Sunny Island": {
+      "happy": "Sand warms underfoot and shadows are generous; the place seems to laugh softly.",
+      "sad": "Sunlight spills empty, and footprints fade like small, private goodbyes.",
+      "annoyed": "Heat presses, folding patience thin, but the view is hard to refuse.",
+      "fearful": "The glare hides shifting dunes and secrets under the surface.",
+      "angry": "The sun beats like a drum; nothing here will be taken gently."
+    },
+    "Desert Place 1": {
+      "happy": "A vast, spare quiet; cactus blooms small and stubborn blessings.",
+      "sad": "Sand covers yesterday's tracks, and the air tastes of leaving.",
+      "annoyed": "Wind scours patience to a wire; your steps chafe at the dunes.",
+      "fearful": "Heat plays tricks, and horizons step away like shy animals.",
+      "angry": "The desert reveals teeth and will not be tamed by wishful thinking."
+    },
+    "Desert Place 2": {
+      "happy": "The sun gilds the ridges and a lone cactus offers a raw, prickly gift.",
+      "sad": "The place holds its breath; even the cactus seems to bow.",
+      "annoyed": "Sand gets into everything, and the day is tired of small complaints.",
+      "fearful": "Mirages suggest things better left unread; the sky watches without mercy.",
+      "angry": "Heat lashes and grinds, and the land asks for blood, not promises."
+    },
+    "Desert Place 3": {
+      "happy": "A rare bloom lifts its head and the heat softens, for a careful moment.",
+      "sad": "The dunes mourn quietly; color recedes to a thin, patient palette.",
+      "annoyed": "You curse the grit in your boots and the slow march of sun.",
+      "fearful": "Shadows lengthen without reason; the world seems to hold its breath.",
+      "angry": "The sand bites and refuses mercy; it wants to be left alone."
+    },
+    "Forest Place 1": {
+      "happy": "Bananas hang like small moons; the leaves whisper easy comforts.",
+      "sad": "Fruit falls into quiet mists and no one gathers the sweetness.",
+      "annoyed": "Branches mock your hat, but they will yield fruit if you insist.",
+      "fearful": "Something moves beyond the canopy; the fruit trembles with it.",
+      "angry": "The grove snaps at intruders and offers fruit as a bribe."
+    },
+    "Forest Place 2": {
+      "happy": "Humidity wraps the glade in easy arms; the bananas are generous.",
+      "sad": "Moss drowns out laughter, and fruit surrenders slowly to the ground.",
+      "annoyed": "Insects fuss, and the trees scold the careless traveler.",
+      "fearful": "A rustle makes the skin prickle; the glade holds its secrets tightly.",
+      "angry": "Branches reach like hands, and the air tastes of mischief."
+    },
+    "Forest Place 3": {
+      "happy": "A pocket of sun warms the undergrowth and fruit drops into waiting hands.",
+      "sad": "The canopy sighs and lets fall the small, lonely offerings.",
+      "annoyed": "You stumble and the leaves laugh; still, some fruit finds its way to you.",
+      "fearful": "Leaves shiver with small, nervous life; the path grows thin.",
+      "angry": "The grove bristles and throws down fruit as if to spite your hunger."
+    },
+    "Lost Canoe": {
+      "happy": "The water's hush seems almost kindly, and the canoe rests like a promise kept.",
+      "sad": "A canoe half-submerged remembers warmer hands and softer days.",
+      "annoyed": "The vessel leaks patience; it would rather be elsewhere.",
+      "fearful": "Cold breath from the river skates over the wood and whispers of depths.",
+      "angry": "Timbers creak with grievance; the river seems to drag at past wrongs."
+    },
+    "River's End": {
+      "happy": "Water opens into slow song and the bank answers in green applause.",
+      "sad": "The current slows, folding memories into mud; there is a long, soft ache.",
+      "annoyed": "The river shifts and scolds with indifferent currents.",
+      "fearful": "The water stares with an old patience; it keeps deeper secrets well.",
+      "angry": "The river pushes back, carrying off what would not be left behind."
+    },
+    "Lost Point on the Coast": {
+      "happy": "A quiet curve of sand invites a soft breath and small, salt-rich gains.",
+      "sad": "Footprints fade quickly; the sea keeps all but the faintest traces.",
+      "annoyed": "The tide scours edges and scolds any attempt at permanence.",
+      "fearful": "The surf's murmur carries warnings; the coast is not a safe harbor.",
+      "angry": "Rocks and water conspire to make the shore unwelcoming and sharp."
+    },
+    "Scary Roads": {
+      "happy": "Even under the oaks there is a thrill for those who like sharp edges.",
+      "sad": "The road hums with old regrets and the night seems full of listening.",
+      "annoyed": "Thorns snag your sleeve and the path refuses to be helpful.",
+      "fearful": "Shadows lean in close and every crack sounds like a footfall.",
+      "angry": "The path spits and bites; it is malevolent toward the careless."
+    },
+    "Nefarious Roads": {
+      "happy": "Hunt-calls echo and the spoils speak of bold tales.",
+      "sad": "Tracks tell stories of loss as much as of gain; the air tastes heavy.",
+      "annoyed": "The chase is messy and occasionally unpleasant, but useful.",
+      "fearful": "Eyes peer from the dark and the road smells of quick danger.",
+      "angry": "The trail is cruel and sharp; it does not forgive errors."
+    }
+  },
+  "actions": {
+    "gather_mushrooms": {
+      "happy": "You bend to earth and find spongy, generous caps, sweet as small luck.",
+      "sad": "Mushrooms rise like small shadows; you gather them with a quiet hand.",
+      "annoyed": "You poke and prod among the rot, and the reward is worth the poke.",
+      "fearful": "A shifting shape sighs nearby; fingers hurry and depart with prizes.",
+      "angry": "You tear at the soil and claim the fungi as if it owed you life."
+    },
+    "gather_chestnuts": {
+      "happy": "Brittle shells fall like applause and the collect is warm and honest.",
+      "sad": "Chestnuts drop into an empty lap; their warmth is a small apology.",
+      "annoyed": "You pry open burrs with graceless hands and the chestnuts repay you.",
+      "fearful": "Something watches between trunks; you move quickly and take what you can.",
+      "angry": "You crack the casings with a surgeon's spite and claim the fruits."
+    },
+    "gather_fish": {
+      "happy": "A good pull yields a shining belly and the salt smells of home.",
+      "sad": "The net returns thinner today; the catch is polite and brief.",
+      "annoyed": "The line snaps and the sea chuckles, then gives up a fish anyway.",
+      "fearful": "The water ripples with unknown weight; hands move fast and retreat.",
+      "angry": "You haul and curse and a fish answers to the fury."
+    },
+    "gather_wild_herbs": {
+      "happy": "You find leaves bright with promise, their scent like small salvation.",
+      "sad": "Herbs cling to the stone, given reluctantly and gathered with care.",
+      "annoyed": "You root among tough stems and the herbs relent at last.",
+      "fearful": "Leaves tremble as if fearing your touch; you take only what you must.",
+      "angry": "You snatch the herbs and the cliff answers with gritted stone."
+    },
+    "gather_fruit": {
+      "happy": "Fruit drops soft and fragrant into the basket; a warm reward.",
+      "sad": "A single fruit falls and rolls away, as if avoiding being known.",
+      "annoyed": "You cough and shake a tree until it yields grudgingly.",
+      "fearful": "You steal fruit under watchful leaves and hurry to safety.",
+      "angry": "You strip the branch as if taking back a slight."
+    },
+    "gather_disgusting_insects": {
+      "happy": "They squirm and surprise with useful protein; necessity tastes odd but true.",
+      "sad": "Small creatures twitch and remind you of fragile things eaten in haste.",
+      "annoyed": "You collect them fast, grimacing; they do their odd and humble work.",
+      "fearful": "Tiny legs skitter and a cold prickle runs up the spine.",
+      "angry": "You pluck and swallow without ceremony; the meal is a defiance."
+    },
+    "gather_banana": {
+      "happy": "Bananas fall warm and sweet, a sun-held offering.",
+      "sad": "A cluster sags and falls into quiet hands, asking little in return.",
+      "annoyed": "You wrench loose a bunch and hope the tree forgives you.",
+      "fearful": "A rustle makes the hair rise; still, the fruit is taken carefully.",
+      "angry": "You tear the bunch down with a sharp, impatient motion."
+    },
+    "gather_cactus": {
+      "happy": "Prick and nectar trade places; the cactus yields a spare kindness.",
+      "sad": "Thorns are patient; you take a small bite and win nothing grand.",
+      "annoyed": "You curse the barbs and prize the pulp like a stubborn coin.",
+      "fearful": "Needles prick and the skin tightens; you work quickly and with care.",
+      "angry": "You wrest the cactus as if the land were your rival."
+    },
+    "eat": {
+      "happy": "Warm food settles like a lullaby and the body thanks you.",
+      "sad": "You eat with solemn mouth; the stomach is filled, the rest lingers empty.",
+      "annoyed": "You chew briskly and the taste is practical, if dull.",
+      "fearful": "You eat quick, eyes flicking to the shadows between bites.",
+      "angry": "You bite with a small, satisfied fury."
+    },
+    "drink_potion": {
+      "happy": "Bitter water blooms into relief; steadiness returns in a warm wash.",
+      "sad": "You sip a small cure and hope it keeps the deeper ache at bay.",
+      "annoyed": "The draught is sharp and efficient; it does its duty without fanfare.",
+      "fearful": "The liquid slips like a quiet promise; you wait for its true effect.",
+      "angry": "You gulp and the world seems to straighten under your will."
+    },
+    "send_letter": {
+      "happy": "Words folded and sealed travel with a tiny optimism inside.",
+      "sad": "Ink swims with a small regret; the letter carries both hope and sorrow.",
+      "annoyed": "You scrawl and post with a clipped, efficient hand.",
+      "fearful": "You hide meaning between lines and push the missive into the post with care.",
+      "angry": "You write blunt things and fold the paper with a snap."
+    },
+    "sell": {
+      "happy": "Coins ring like small celebrations as you let goods go to new hands.",
+      "sad": "You part with things that remember other hands; the purse grows but the memory thins.",
+      "annoyed": "You place wares briskly and watch the market with a practiced eye.",
+      "fearful": "You set a price and watch for someone who will take it swiftly.",
+      "angry": "You shout the price and feel the weight of bargaining in your chest."
+    },
+    "buy": {
+      "happy": "New things are heavy with possibility; purchase tastes like a small victory.",
+      "sad": "The coin is lighter for you and heavier for what you left behind.",
+      "annoyed": "You hand over coin and count back the loss with a neat frown.",
+      "fearful": "You buy quickly, worried the chance will evaporate.",
+      "angry": "You snap the purse open and take what you need without patience."
+    },
+    "work_for_king": {
+      "happy": "Even the dullest task pays its small rewards; the day is honest.",
+      "sad": "Spoon in hand, the labor feels heavy with other people's appetite.",
+      "annoyed": "Mud sticks to your hands and the hours stretch, but the coin arrives.",
+      "fearful": "The King's mood hangs like a cloud; your labor might be for nothing.",
+      "angry": "You work with a hard jaw and the river seems to complain louder."
+    },
+    "plant_wheat": {
+      "happy": "Seeds sink into turned earth like promises planted in willing soil.",
+      "sad": "You bury small hopes in the ground and wait with a thinned patience.",
+      "annoyed": "You push seeds into the dirt and swear softly at stubborn clods.",
+      "fearful": "You plant with quick hands, watching the sky as if it might answer.",
+      "angry": "You throw seed like a challenge at the field and dare it to respond."
+    },
+    "harvest_wheat": {
+      "happy": "Sickle glints and stalks fall in a soft harvest of golden work.",
+      "sad": "You reap quietly; the field yields what it will and keeps a few debts.",
+      "annoyed": "You cut fast and curse at tangles, but the sacks fill all the same.",
+      "fearful": "You hurry through the rows, certain something waits in the furrows.",
+      "angry": "You swing with a fierce rhythm and claim the crop with a shout."
+    },
+    "mill_wheat": {
+      "happy": "Wheels sing and flour dusts your palms like pale gold.",
+      "sad": "Grain grinds with a tired patience and the flour rests like quiet ash.",
+      "annoyed": "The mill drags, and you push until flour starts to collect.",
+      "fearful": "The stones groan and you step back, heart high in your throat.",
+      "angry": "You grind with clenched teeth until the husks surrender."
+    },
+    "bake_bread": {
+      "happy": "Heat folds the dough into warmth and the oven opens like a small blessing.",
+      "sad": "Loaves brown with a steady sorrow; you hope they satisfy more than hunger.",
+      "annoyed": "You turn and tend and the bread comes out as it must.",
+      "fearful": "You watch the oven like someone waiting for a sign.",
+      "angry": "You slam the peel down and declare the loaves a victory."
+    },
+    "craft_potion": {
+      "happy": "Bubbles lift and herbs yield their secretions in a bright, useful brew.",
+      "sad": "The potion simmers with quiet hope, thin but earnest.",
+      "annoyed": "You pound and strain until the vial fills, satisfied with the result.",
+      "fearful": "The mixture hisses and you step back, waiting to see if it will hold.",
+      "angry": "You force the brew into being with a stubborn, furious hand."
+    },
+    "pray": {
+      "happy": "A breath leaves you lighter; small mercies seem to gather like rain.",
+      "sad": "You whisper into stone and hope for a slow kindness back.",
+      "annoyed": "A quick word, a quick bow; it is tidy and oddly comforting.",
+      "fearful": "You watch the shadows beyond the altar and speak softly.",
+      "angry": "You demand help with a fierce voice and leave the place shaking."
+    },
+    "pray_for": {
+      "happy": "You offer your care outward and warmth seems to answer in small measure.",
+      "sad": "Your plea is a thin rope thrown across distance, earnest but fragile.",
+      "annoyed": "You ask quickly for another's aid and hope it is enough.",
+      "fearful": "Your words tremble in the air; you wait for fate to be kinder.",
+      "angry": "You call for aid with force, as one might for a friend in danger."
+    },
+    "move": {
+      "happy": "Roads open like chapters and the step is a promise of new sight.",
+      "sad": "The path lengthens and the feet grow heavier with remembered weighings.",
+      "annoyed": "You stride and the road complains, but you move as you must.",
+      "fearful": "Each step carries caution; the world feels watchful here.",
+      "angry": "You march, jaw set, and the horizon answers with a hard line."
+    },
+    "try_swim": {
+      "happy": "Strong strokes and breath even; the shore greets you like an old friend.",
+      "sad": "The water takes a piece of your certainty; you cling to the hope of land.",
+      "annoyed": "You kick and push; the sea tests your patience and gives a bit.",
+      "fearful": "The waves take and give with cruel rhythm; you fight for each stroke.",
+      "angry": "You bite the sea with stubborn arms and refuse to be claimed."
+    },
+    "found_city": {
+      "happy": "A name floats up and the place answers, ready to be called home.",
+      "sad": "You plant a name into empty land and it holds a gentle, careful hope.",
+      "annoyed": "You mark the map and the soil, and the deed gets done with measured work.",
+      "fearful": "You say the name with care, unsure if the earth will consent.",
+      "angry": "You declare a city with a bold voice, daring the world to contradict you."
+    },
+    "talk_natives": {
+      "happy": "Warm greetings, stories overlapping like comfortable cloth.",
+      "sad": "Stories curl into themselves and leave small, haunting echoes.",
+      "annoyed": "You trade words and half-smiles; meanings slide like fish from nets.",
+      "fearful": "Their eyes glance away from certain places in the tale; you feel a chill.",
+      "angry": "Words clash like fists and civility thins with each passing line."
+    },
+    "hunt_nefarious": {
+      "happy": "The chase sings and you return with a hard-earned prize.",
+      "sad": "The thrill leaves a hollow place where the hunt once stood.",
+      "annoyed": "You track and strike; the day is messy but productive.",
+      "fearful": "The woods hold teeth beneath the leaves; every shadow is a question.",
+      "angry": "You hunt like a storm, and the land answers in bruise and bone."
+    }
+  }
+}
